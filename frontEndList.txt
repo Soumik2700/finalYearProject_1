@@ -1,0 +1,13 @@
+front end - 
+
+Home
+Product listing
+Product details
+Cart
+Sign ip
+Sign up'
+My list
+Orders
+Search
+My account
+Contact
