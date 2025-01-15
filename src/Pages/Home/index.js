@@ -1,5 +1,6 @@
 import React from 'react'
 import HomeBanner from '../../Conponents/HomeBanner'
+import bannerImage from '../../assets/images/banner.jpg'
 
 const Home = () => {
   return (
@@ -9,7 +10,7 @@ const Home = () => {
           <div className='container'>
               <div className='row'>
                   <div className='col-md-3'>
-                    <div className='banner'><img src="https://fullstack-ecommerce.netlify.app/static/media/banner1.957b2952d2e9b8c1f445.jpg" alt="" /></div>
+                    <div className='banner'><img src={bannerImage} alt="error" /></div>
                   </div>
                   <div className='col-md-3'>
                        
